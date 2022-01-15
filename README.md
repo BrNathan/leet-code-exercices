@@ -13,3 +13,5 @@ Exercices made on site https://leetcode.com/
 - [X] [final-value-variable-after-performing-operations](trainings/final-value-variable-after-performing-operations/)
 - [X] [plus-one](trainings/plus-one/)
 - [ ] [binary-prefix-divisible-by-5](trainings/binary-prefix-divisible-by-5/)
+<br/> *miss one case*
+- [X] [minimize-maximum-pair-sum-in-array](trainings/minimize-maximum-pair-sum-in-array/)
