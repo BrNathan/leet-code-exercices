@@ -15,4 +15,4 @@ Exercices made on site https://leetcode.com/
 - [ ] [binary-prefix-divisible-by-5](trainings/binary-prefix-divisible-by-5/)
 <br/> *miss one case*
 - [X] [minimize-maximum-pair-sum-in-array](trainings/minimize-maximum-pair-sum-in-array/)
-- [ ]] [split-linked-list-in-parts](trainings/split-linked-list-in-parts/)
+- [X] [split-linked-list-in-parts](trainings/split-linked-list-in-parts/)
